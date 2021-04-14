@@ -1,0 +1,1 @@
+Theory and Practice of String Solving (TPSS) workshop is to bring practitioners and theorists together at a single CAV co-located venue and benefit from each others' expertise, currently largely siloed away.
